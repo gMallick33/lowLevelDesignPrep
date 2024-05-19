@@ -1,0 +1,6 @@
+- In observer design pattern, there are 2 elements - 
+    - observable
+    - observer
+- observable is the element which we want to observe. Like when iphone stock in flipkart. when the stock is 0 then we get the button "notify me" so that flipkart will notify the user.
+- observer is the user which subscribe to notify me button.
+- Another example can be weather station and every 5 minutes weather station should send the current temperature to the observer. Similarly apple company stocks for stock brokers another example.

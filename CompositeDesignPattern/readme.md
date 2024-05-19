@@ -1,0 +1,1 @@
+- Similar to file system, evaluating expression can be done with this design pattern

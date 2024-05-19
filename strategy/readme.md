@@ -1,0 +1,3 @@
+- If you don't use strategy design pattern then for both suv and offroad vehicle you have to repeat the drive() code.
+- with strategy you create a new class DriveStrategy and you don't have to repeat the code.
+- You have to only do dependency injection. put drive strategy in the constructor of Vehicle

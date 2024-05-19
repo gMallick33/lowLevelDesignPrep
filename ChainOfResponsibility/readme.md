@@ -1,0 +1,6 @@
+- Info, Debug, Error logging is an amazon question.
+- if info can't handle then debug handles it.
+- if debug can't handle it then error handles it
+- else default handling happens.
+- ATM machine, vending machine also come in this category.
+- Each logProcessor has a nextLogProcessor, that is how the chain happens from info to debug to error.

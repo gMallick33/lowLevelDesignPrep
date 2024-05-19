@@ -1,0 +1,3 @@
+- Vehicle factory is there and it produces a particular type of vehicle given a string.
+- But when vehicle factory can't match the string with anything, it returns null object.
+- null object returns some default value, but doesn't raise any exception or any error.

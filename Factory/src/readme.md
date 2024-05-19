@@ -1,0 +1,2 @@
+- we provide a string to Factory class like "CIRCLE" or "RECTANGLE" and factory will give us the object of the provided shape.
+- so we can get the object of the particular shape if we know about the string which should be passed to Factory.
