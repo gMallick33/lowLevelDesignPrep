@@ -1,0 +1,8 @@
+- This is a creational design pattern.
+- Student class require StudentBuilder interface.
+- Director creates the Student object from StudentBuilder interface.
+- Director has implementation of StudentBuilder for example EngineeringStudentBuilder;
+- Director job is to follow some way to create the student.
+- In some other case we may need to set some property first and then some propeerty after that.
+- For example, when we build house, we can't build the roof first, we need to build foundation first and then wall.
+- But in case student it doesn't really matter which property gets set first.
