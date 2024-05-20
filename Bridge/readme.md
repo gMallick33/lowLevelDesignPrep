@@ -1,0 +1,3 @@
+- Bridge and Strategy have exactly the same UML diagram but both differs in terms of intent.
+- we use strategy because we want to avoid code duplication.
+- We use bridge because we want to grow both the interfaces, Vehicle interface and driving strategy independently.
