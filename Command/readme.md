@@ -1,0 +1,2 @@
+- Receiver, Command, Invoker, Client
+- In this case AC, TurnOn or TurnOff, Remote, Main function

@@ -1,0 +1,6 @@
+- intrinsic - shared properties among objects
+- extrinsic - not shared among objects
+- keep the intrinsic properties in the class
+- when memory is limited and properties can be shared among objects, and creating objects is expensinve then flyweight pattern is used.
+- In gaming scenario we only need to display 1000000 robots, That doesn't mean we create 1000000 robots
+- we create one object and use the same object for displaying at different (x, y) positions.
