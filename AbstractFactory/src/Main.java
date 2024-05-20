@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        AbstractColorFactory redFactory = new RedFactory();
+        Shape redSquare = redFactory.getShape("SQUARE");
+        redSquare.draw();
     }
 }
