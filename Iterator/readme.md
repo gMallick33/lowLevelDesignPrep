@@ -1,0 +1,3 @@
+- Iterator design is like the collection class in java
+- In collection design, ArrayList, HashMap etc. are the concrete aggregator.
+- InterfaceAggregator is Collection.
